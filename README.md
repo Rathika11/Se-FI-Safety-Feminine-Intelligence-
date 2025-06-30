@@ -67,7 +67,6 @@ SeFI-Project/
 
 ## 🚀 Getting Started
 
-```bash
 # Step 1: Clone the repository
 git clone https://github.com/Rathika11/sefi-safety-system.git
 cd sefi-safety-system
