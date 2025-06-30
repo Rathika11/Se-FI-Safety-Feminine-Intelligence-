@@ -1,0 +1,5 @@
+streamlit
+bcrypt
+pymongo
+streamlit-js-eval
+# Add any other libraries you use

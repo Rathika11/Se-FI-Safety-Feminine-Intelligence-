@@ -1,0 +1,24 @@
+[
+    {
+      "id": "zone_1_example_polygon",
+      "name": "Example High Crime District Area",
+      "type": "polygon",
+      "coordinates": [
+        [11.015, 76.990],
+        [11.020, 76.995],
+        [11.015, 77.000],
+        [11.010, 76.995],
+        [11.015, 76.990]
+        
+      ]
+    },
+     {
+      "id": "zone_2_example_point",
+      "name": "Example Crime Hotspot (Radius)",
+      "type": "point_radius",
+      "center": [10.980, 77.050],
+      "radius_km": 0.3
+      
+    }
+    
+  ]
