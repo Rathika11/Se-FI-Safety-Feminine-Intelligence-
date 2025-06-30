@@ -67,18 +67,22 @@ SeFI-Project/
 
 ## 🚀 Getting Started
 
-1. Clone the repository:
 ```bash
+# Step 1: Clone the repository
 git clone https://github.com/Rathika11/sefi-safety-system.git
 cd sefi-safety-system
-Install dependencies:
 
+# Step 2: Install dependencies
 pip install -r requirements.txt
-Run the app:
-streamlit run streamlit_app/main.py
-Use the dashboard, test safety predictions, and simulate SOS alerts.
 
-📈 Future Enhancements
+# Step 3: Run the Streamlit app
+streamlit run streamlit_app/main.py
+
+# Now open the dashboard in your browser, test safety predictions, and simulate SOS alerts.
+----
+
+
+##📈 Future Enhancements
 Mobile app version with geofence alerts
 
 Multilingual support (Hindi, Tamil, Telugu, etc.)
@@ -86,7 +90,6 @@ Multilingual support (Hindi, Tamil, Telugu, etc.)
 Chatbot integration for live help
 
 Integration with state crime databases for live feeds
-
 
 ❤️ Built With Purpose
 SeFI is built with the mission to empower every woman in India to feel safe, informed, and protected—through the power of AI, open data, and real-time intelligence.
